@@ -9,7 +9,7 @@ This is a **Python-based File Management App** that allows users to:
 
 ## 🚀 How to Run the App  
 1. Ensure you have **Python 3.x** installed.  
-2. Download the script (`file_management.py`).  
+2. Download the script (`main.py`).  
 3. Run the script using:  
    ```bash
-   python file_management.py
+   python main.py
